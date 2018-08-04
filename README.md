@@ -32,7 +32,13 @@ install.packages(c("lubridate", "ggplot2", "scales", "reshape2"))
   - the name of the event 
   - the TRUE/FALSE flag indicating whether you would like your results saved.
   - the directory to where your results should be saved.
-4. Select the whole script and run everything in one go.
+4. Replace the string of times with times copied from your [qqtimer session.](https://qqtimer.net) It should look something like:
+
+```r
+times_raw <- "5.55, 5.64, 6.58, 6.67, 5.70"
+```
+
+5. Select the whole script and run everything in one go.
 
 ## Contribute
 
