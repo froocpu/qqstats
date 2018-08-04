@@ -29,9 +29,9 @@ install.packages(c("lubridate", "ggplot2", "scales", "reshape2"))
 ```
 
 3. Set your inputs: 
-  a. the name of the event 
-  b. the TRUE/FALSE flag indicating whether you would like your results saved.
-  c. the directory to where your results should be saved.
+  - the name of the event 
+  - the TRUE/FALSE flag indicating whether you would like your results saved.
+  - the directory to where your results should be saved.
 4. Select the whole script and run everything in one go.
 
 ## Contribute
